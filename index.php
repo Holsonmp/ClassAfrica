@@ -27,12 +27,7 @@
 					</div>
 				</div>
 			</div>
-					<hr/><br/><br/>
-					<hr/><br/><br/>
-					<hr/><br/><br/>
-					<hr/><br/><br/>
-					<hr/><br/><br/>
-					<hr/><br/><br/>
+
 					';
 						$informations = Array( false, 'Une connexion est requise', '','', ROOTPATH.'/dashboard', 0) ; require_once('./information-index.php'); exit();
 				}
