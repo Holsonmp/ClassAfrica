@@ -551,5 +551,5 @@
 	</form>
 				</div>
 			</section>
-		</main>
+	</main>
 <?php include("./includes/footer.php");?>
